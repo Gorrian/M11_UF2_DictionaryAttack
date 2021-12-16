@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyHgzHJR2Id0nkZJ4e9L3jrdShqqItjyaXefje9kt27gIN3r8WprI281FHv/FnMvTIZ5QNIPNxtGUw90EsKcoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Estudios\\ASIX2\\M11\\Scrpts\\M11_UF2_DictionaryAttack\\M11_UF2_DictionaryAttack\\M11_UF2_DictionaryAttack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

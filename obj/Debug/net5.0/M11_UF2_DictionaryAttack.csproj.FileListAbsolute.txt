@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.exe
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.deps.json
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.runtimeconfig.json
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.runtimeconfig.dev.json
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.dll
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\ref\M11_UF2_DictionaryAttack.dll
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\bin\Debug\net5.0\M11_UF2_DictionaryAttack.pdb
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.AssemblyInfo.cs
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.dll
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\ref\M11_UF2_DictionaryAttack.dll
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.pdb
+C:\Users\USUARIO\Estudios\ASIX2\M11\Scrpts\M11_UF2_DictionaryAttack\M11_UF2_DictionaryAttack\obj\Debug\net5.0\M11_UF2_DictionaryAttack.genruntimeconfig.cache
